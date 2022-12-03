@@ -1,0 +1,17 @@
+header > naav {
+background: purple;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  gap: 1rem;
+}
+
+
+li {
+  padding: 1rem;
+}
